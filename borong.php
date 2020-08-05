@@ -71,9 +71,9 @@ return $a;
 
 echo "=========================\n";
 echo "Borong Barang Slash\n";
-echo "Created by @ikballnh\n";
+echo "Created by @MasAdyyyyy\n";
 echo "=========================\n";
-echo "Masukan ID: ";
+echo "Masukan ID:713780025835636";
 $id = trim(fgets(STDIN));
 $getno = getno($id);
 //echo "$getno";
